@@ -5,9 +5,9 @@ import datetime
 import time
 
 DARK_SKY_URL = 'https://api.darksky.net/forecast/'
-DARK_SKY_KEY = 'd4582bf891a0e402bd3beb87a8327944'
+DARK_SKY_KEY = ''
 
-GOOGLE_MAP_KEY = 'AIzaSyB2KOi2CcN7-CPjI_77SvdBaik7GF7w3ow'
+GOOGLE_MAP_KEY = ''
 GOOGLE_MAP_URL = 'https://maps.googleapis.com/maps/api/geocode/json'
 
 location = 'tainan'
