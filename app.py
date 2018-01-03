@@ -8,7 +8,7 @@ from flask import Flask, request, send_file
 from fsm import TocMachine
 
 
-API_TOKEN = ''
+API_TOKEN = '480994870:AAEsENlVdWmK5MdHOfe8PZWh_jFqzfHJB7w'
 WEBHOOK_URL = 'https://f6c13108.ngrok.io/hook'
 
 app = Flask(__name__)
